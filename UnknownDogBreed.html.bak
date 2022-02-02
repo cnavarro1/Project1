@@ -6,6 +6,11 @@
 </head>
 
 <body>
+   <ul>
+    <li><a href="https://cnavarro1.github.io/Project1/">Resume</a></li>
+    <li><a href="https://cnavarro1.github.io/Project1/UnknownDogBreed.html">What Breed is My Dog?</a></li>
+	<li><a href="https://cnavarro1.github.io/Project1/ArmadilloFacts.html">Fun Facts about the Armadillo</a></li>
+  </ul>
   
   <h1>What Breed is My Dog?</h1>
     <img src="Ophelia_Main.jpg" alt="Ophelia Looking at Camera" width="400" height="600">
