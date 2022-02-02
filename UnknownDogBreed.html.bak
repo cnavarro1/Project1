@@ -8,7 +8,7 @@
 <body>
   
   <h1>What Breed is My Dog?</h1>
-    <img src="Ophelia_Main.jpg" alt="Ophelia Looking at Camera">
+    <img src="Ophelia_Main.jpg" alt="Ophelia Looking at Camera" width="400" height="600">
 	
 
 </body>
