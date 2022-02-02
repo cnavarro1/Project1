@@ -4,11 +4,12 @@
   <meta charset="UTF-8">
   <title>Cristian Navarro's Resume</title>
 </head>
-<ul>
-  <li><a href="https://cnavarro1.github.io/Project1/">Resume</a></ul>
-  <li><a href="https://cnavarro1.github.io/Project1/UnknownDogBreed.html">What Breed is My Dog?</a></ul>
-</ul>
+
 <body>
+  <ul>
+    <li><a href="https://cnavarro1.github.io/Project1/">Resume</a></li>
+    <li><a href="https://cnavarro1.github.io/Project1/UnknownDogBreed.html">What Breed is My Dog?</a></li>
+  </ul>
   
   <h1>Cristian Navarro's Resume</h1>
   
