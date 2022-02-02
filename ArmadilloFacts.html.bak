@@ -2,46 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>What Breed is My Dog?</title>
+  <title>Interesting Facts About Armadillos</title>
 </head>
 
 <body>
   
-  <h1>What Breed is My Dog?</h1>
-    <img src="Ophelia_Main.jpg" alt="Ophelia Looking at Camera" width="400" height="600">
-    <h2>Why do you care so much and why should I?</h2>
-	  <p>This question has haunted me since adopting her in the summer of 2020. This is Ophelia, my very friendly and gorgeous dog. 
-	  I remember seeing her picture on <a href="https://adoptapet.com/">AdoptAPet.com</a> and thinking, "I 
-	  wonder what breed she is. Better remember to ask when I visit her."
+  <h1>Interesting Facts About Armadillos</h1>
+    <img src="NineBandArmadillo.jpg" alt="Nine Banded Armadillo" width="600" height="300">
+    <h2>What the heck is that armored shrew thing?</h2>
+	  <p>
 	  </p> 
-	  <p><strong>Spoiler Alert:</strong> I forgot to ask.</p>
-	  <p>Now, you may already have an answer but that's not the point. This is obviously an excuse for me to 
-	  show pictures of my dog and other dogs that are not as cute as her but look like her. So the following 
-	  are potentially what breed my dog is. I will also rate the dog used in the sample photo by how cute they 
-	  are compared to Ophelia.
+	  
+	<h2>Fun Fact #1: The name "Armadillo" translates from Spanish for "Little Armored One"</h2>
+	  <img src="ArmadilloArt.jpg" alt="Mexican Armadillo Sculpture" width="300" height="200">
+	  <p>This is one of those times when you learn what something means and realizes that some times people 
+	  who name things can be lazy or uncreative. However, this makes sense since Armadillos are native to 
+	  parts of Central and South America, where Spanish is mainly spoken. 
 	  </p>
-	<h2>Norwegian Elkhound?</h2>
-	  <img src="Norwegian-Elkhound-Dog-Breed.jpeg" alt="Elkhound" width="300" height="200">
-	  <p>Off to a pretty weak start. I tried this app that guesses your dog's breed and it gave a 20% chance 
-	  that she was part Norwegian Elkhound. Makes kinda sense. The body shape is about the same, including 
-	  the tail. I only express doubt in its fur. Would not mind having this dog though.
+	  <p>Actually, my experiences with Armadillos consists mostly of seeing them as roadkill lke every 500 feet 
+	  while driving around in Mexico. That was probably the inspiration for the pose the armadillo sculpture
+	  seen above. I mean, have you seen Rango? It's literally a joke that they love getting hit by cars or
+	  something. Which leads us to our next fact!
 	  </p>
-	  <p><strong>Rating: 11/10</strong> Would enjoy an elkhound to bring me elk and still looks like it has 
-	  nice fur coat.
+	  
+	<h2>Fun Fact #2: Nine-banded Armadillos jump three feet into the air as a defense mechanism</h2>
+	   <img src="ArmadilloJump.jpg" alt="Armadillo Mid-jump" width="300" height="250">
+	  <p><strong>Author's Note:</strong> I literally laughed so hard when I read this that my roomate thought
+	  I was being murdered in my room from the way I was screaming and then crying. With laughter, of course.
 	  </p>
-	<h2>Pomeranian?</h2>
-	   <img src="Pomeranian.jpg" alt="Pomeranian" width="300" height="200">
-	  <p> I know this seems absurd, but hear me out. This theory comes from the fact that I had this video sent 
-	  to me by a relative. If you follow the link to the website, this person's video is tagged #pomeranion 
-	  like probably 5 times. I actually spoke to the person by commenting on their video because you cannot 
-	  deny the resemblance. They confirmed that their dog is a pomeranion mix and they saw some videos of mine
-	  and theorize that my Ophelia must also be. That is about as much information as I needed to believe it at 
-	  least a little. 
+	  <p>After learning this, it makes so much more sense that I see so many just squashed on the side of the
+	  road. They really see a car coming and think, "If I jump, I won't die." If they literally did the 
+	  opposite of that, they would be safe. Why do people talk about lemmings when armadillos are constantly 
+	  either trying to kill themselves or commit insurance fraud.
 	  </p>
-	  <iframe width="260" height="460" src="https://www.tiktok.com/@isthatcake/video/7030242625798081797?is_from_webapp=1&sender_device=pc&web_id7059932527151564294">
-	  </iframe>
-	  <p><strong>Rating: 13/10</strong> Too small for me but undoubtedly adorable. Would stuff one in my coat for
-	  extra warmth. Also, increases value of my dog I think. Not that I would sell her or anything...
-	  </p>
+	  
+	<h2>This webpage was inspire bythis video from zefrank1.</h2>
+	<iframe width="894" height="503" src="https://www.youtube.com/embed/110iUX1Ursk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
