@@ -14,6 +14,8 @@
   
   <h1>What Breed is My Dog?</h1>
     <h4>by: Cristian Navarro</h4>
+	
+	<section>
     <img src="images/ophelia_main.jpg" alt="Ophelia Looking at Camera" width="400" height="600">
     <h2>Why do you care so much and why should I?</h2>
 	  <p>
@@ -37,6 +39,9 @@
 	    are potentially what breed my dog is. I will also rate the dog used in the sample photo by how cute they 
 	    are compared to Ophelia.
 	  </p>
+	</section>
+	
+	<section>
 	<h2>Norwegian Elkhound?</h2>
 	  <img src="images/norwegian-elkhound-dog-breed.jpeg" alt="Elkhound" width="300" height="200">
 	  <p>
@@ -53,6 +58,9 @@
 	    <strong>Rating: 11/10</strong> - Would enjoy an elkhound to bring me elk and still looks like it has 
 	    nice fur coat.
 	  </p>
+	</section>
+	
+	<section>
 	<h2>Belgian Tervurian?</h2>
 	  <img src="images/tervurian.jpg" alt="Tervurian" width="300" height="200">
 	  <p>
@@ -65,6 +73,9 @@
 	    <strong>Rating: 10/10</strong> - All it has is the fur and color but way to big. Still gets at 
 	    least a 10 just for being a dog.
 	  </p>
+	</section>
+	
+	<section>
 	<h2>Pomeranian?</h2>
 	  <img src="images/pomeranian.jpg" alt="Pomeranian" width="300" height="200">
 	  <p> 
@@ -81,6 +92,9 @@
 	    <strong>Rating: 13/10</strong> - Too small for me but undoubtedly adorable. Would stuff one in my coat for
 	    extra warmth. Also, increases value of my dog I think. Not that I would sell her or anything...
 	  </p>
+	</section>
+	
+	<section>
 	<h2>GNOME?</h2>
 	  <img src="images/gnome.jpg" alt="A Gnome" width="300" height="300">
 	  <p>
@@ -96,6 +110,9 @@
 	  <p>
 	    <strong>Rating:-100/10</strong> - Gave me trust issues and worsened my ever increasing fear of gnomes.
 	  </p>
+	</section>
+	
+	<section>
 	<h2>Sheltie?</h2>
 	  <img src="images/sheltie.jpg" alt="Sheltie" width="300" height="225">
 	  <p>
@@ -108,5 +125,8 @@
 	  <img src="images/sheltiemix2.jpg" alt="Sheltie Mix 2" width="450" height="300">
 	  <img src="images/ophieshake.jpg" alt="Ophie putting up her paw" width="200" height="300">
       <p>Yeah, you're probably right. I'm leaning more towards her being a gnome in disguise.</p>
+    </section>
+
 </body>
+
 </html>
