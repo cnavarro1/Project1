@@ -30,7 +30,7 @@
     </section>
   	
 	<section><h2>Fun Fact #1: The name "Armadillo" translates from Spanish for "Little Armored One"</h2>
-	  <img src="images/armadilloart.jpg" alt="Mexican Armadillo Sculpture" >
+	  <img src="images/armadilloart.jpg" alt="Mexican Armadillo Sculpture" height="300" width="550" >
 	  <p>
 	    This is one of those times when you learn what something means and realizes that some times people 
 	    who name things can be lazy or uncreative. However, this makes sense since Armadillos are native to 
