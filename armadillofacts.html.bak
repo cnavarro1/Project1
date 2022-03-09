@@ -13,7 +13,7 @@
   </ul>
   <h1>Interesting Facts About Armadillos</h1>
   
-    <img src="Images/NineBandArmadillo.jpg" alt="Nine Banded Armadillo" >
+    <img src="images/ninebandarmadillo.jpg" alt="Nine Banded Armadillo" >
     <section><h2>What the heck is that armored shrew thing?</h2>
 	  <p>
 	    That "armored shrew thing" is an armadillo. Duh. Figured that would be obvious. Anyway, you should 
@@ -23,7 +23,7 @@
     </section>
   	
 	<section><h2>Fun Fact #1: The name "Armadillo" translates from Spanish for "Little Armored One"</h2>
-	  <img src="Images/ArmadilloArt.jpg" alt="Mexican Armadillo Sculpture" >
+	  <img src="images/armadilloart.jpg" alt="Mexican Armadillo Sculpture" >
 	  <p>
 	    This is one of those times when you learn what something means and realizes that some times people 
 	    who name things can be lazy or uncreative. However, this makes sense since Armadillos are native to 
@@ -42,7 +42,7 @@
     </section>
   
 	<section><h2>Fun Fact #2: Nine-banded Armadillos jump three feet into the air as a defense mechanism</h2>
-	  <img src="Images/ArmadilloJump.jpg" alt="Armadillo Mid-jump" >
+	  <img src="images/armadillojump.jpg" alt="Armadillo Mid-jump" >
 	  <p>
 	    <strong>Author's Note:</strong> I literally laughed so hard when I read this that my roomate thought
 	    I was being murdered in my room from the way I was screaming and then crying. With laughter, of course.
@@ -60,7 +60,7 @@
     </section>
   
 	<section><h2>Fun Fact #3: Some animals are jealous of armadillo anatomy and try to pretend like they are one.</h2>
-	  <img src="Images/catadillo.png" alt="Cat but Armadillo" >
+	  <img src="images/catadillo.png" alt="Cat but Armadillo" >
 	  <p>
 	    Okay, I'm kidding but I needed to incorporate a picture of this kitten in somehow. Don't act like 
 	    you're not glad I did.
