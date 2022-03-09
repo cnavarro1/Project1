@@ -53,18 +53,20 @@
   </section>
   
   <section><h2>Skills</h2>
-    <ul>
-	  <li>Bilingual (English and Spanish)</li>
-	  <li>Proficient in all Microsoft Office Products</li>
-	  <li>Experienced in all Adobe Products</li>
-	  <li>Trained in Autodesk Inventor</li>
-	  <li>Trained in Creo</li>
-	  <li>Familiar with Python</li>
-	  <li>Working with Basic HTML</li>
-	  <li>Working with Javascript</li>
-	  <li>Have worked with Python</li>
-	  <li>Creative Problem Solver</li>
-	</ul>
+    <div id="skills">
+      <ul>
+        <li>Bilingual (English and Spanish)</li>
+        <li>Proficient in all Microsoft Office Products</li>
+        <li>Experienced in all Adobe Products</li>
+        <li>Trained in Autodesk Inventor</li>
+        <li>Trained in Creo</li>
+        <li>Familiar with Python</li>
+        <li>Working with Basic HTML</li>
+        <li>Working with Javascript</li>
+        <li>Have worked with Python</li>
+        <li>Creative Problem Solver</li>
+      </ul>
+    </div>
   </section>
   
 </body>
