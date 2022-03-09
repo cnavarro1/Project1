@@ -12,7 +12,7 @@
       <div id="navbar-container">
         <ul>
           <li><a href="https://cnavarro1.github.io/project1/">Resume</a></li>
-          <li><a href="#">What Breed is My Dog?</a></li>
+          <li id="onpage"><a href="#">What Breed is My Dog?</a></li>
           <li><a href="https://cnavarro1.github.io/project1/armadillofacts.html">Fun Facts about the Armadillo</a></li>
         </ul>
       </div>
@@ -20,7 +20,7 @@
   </header>
   <h1>What Breed is My Dog?</h1>
     <h4>by: Cristian Navarro</h4>
-    <img src="images/ophelia_main.jpg" alt="Ophelia Looking at Camera" >
+    <img src="images/ophelia_main.jpg" alt="Ophelia Looking at Camera" height="500" width="300" >
 	
     <section><h2>Why do you care so much and why should I?</h2>
 	  <p>
