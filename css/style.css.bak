@@ -1,6 +1,6 @@
 h1 {
   color: blue;
-  
+  font-family: Avantgrade, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 #main-navbar {
   background-color: blue;
