@@ -20,9 +20,10 @@
   </header>
   <h1>What Breed is My Dog?</h1>
     <h4>by: Cristian Navarro</h4>
-    <img id="ophiemain" src="images/ophelia_main.jpg" alt="Ophelia Looking at Camera" height="500" width="350">
-	  <img id="trailleft" src="css/pawtrailvertical.png" alt="Paw Trail" >
+    <img id="trailleft" src="css/pawtrailvertical.png" alt="Paw Trail" >
     <img id="trailright" src="css/pawtrailvertical.png" alt="Paw Trail" >
+    <img id="ophiemain" src="images/ophelia_main.jpg" alt="Ophelia Looking at Camera" height="500" width="350">
+
     <section><h2>Why do you care so much and why should I?</h2>
 	  <p>
 	    This question has haunted me since adopting her in the summer of 2020. This is Ophelia, my very 
