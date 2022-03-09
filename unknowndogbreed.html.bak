@@ -21,7 +21,8 @@
   <h1>What Breed is My Dog?</h1>
     <h4>by: Cristian Navarro</h4>
     <img id="ophiemain" src="images/ophelia_main.jpg" alt="Ophelia Looking at Camera" height="500" width="350">
-	
+	  <img id="trailleft" src="css/pawtrailvertical.png" alt="Paw Trail" >
+    <img id="trailright" src="css/pawtrailvertical.png" alt="Paw Trail" >
     <section><h2>Why do you care so much and why should I?</h2>
 	  <p>
 	    This question has haunted me since adopting her in the summer of 2020. This is Ophelia, my very 
@@ -121,7 +122,7 @@
 	    returning from extinction, but I do not mean pure sheltie like the one above. I mean what results 
 	    from searching 'Sheltie Mix" in Google:
 	  </p>
-	  <img src="images/sheltiemix1.jpg" alt="Sheltie Mix 1" height="550" width="450" >
+	  <img src="images/sheltiemix1.jpg" alt="Sheltie Mix 1" height="500" width="450" >
 	  <img src="images/sheltiemix2.jpg" alt="Sheltie Mix 2" height="450" width="650" >
 	  <img src="images/ophieshake.jpg" alt="Ophie putting up her paw" height="800" width="550" >
       <p>Yeah, you're probably right. I'm leaning more towards her being a gnome in disguise.</p>

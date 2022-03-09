@@ -50,6 +50,9 @@ img, iframe {
 }
 #navbar-container ul li a:hover {
   background-color: #a78250;
+  background-image: url(pawtrail.png);
+  background-size: contain;
+  color:#fff;
 }
 #onpage {
   text-decoration: underline overline;
@@ -61,4 +64,28 @@ img, iframe {
 #note {
   text-align: center;
   font-variant: normal;
+  font-family: courier;
+}
+#trailleft {
+  float: left;
+  height: 100%;
+  width: 20%;
+}
+#trailright {
+  float: right;
+  height: 100%;
+  width: 20%;
+}
+#patternright {
+  position: fixed;
+  background-image: url(pattern.png);
+  background-size: contain;
+  float: right;
+  height: 100%;
+  width: 15%;
+}
+#patternleft {
+  float: left;
+  height: 100%;
+  width: 15%;
 }
