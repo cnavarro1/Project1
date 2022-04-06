@@ -77,9 +77,6 @@ img, iframe {
   width: 20%;
 }
 #patternright {
-  position: fixed;
-  background-image: url(pattern.png);
-  background-size: contain;
   float: right;
   height: 100%;
   width: 15%;
@@ -88,4 +85,8 @@ img, iframe {
   float: left;
   height: 100%;
   width: 15%;
+}
+#img2 {
+  width: 550px;
+  height: 300px;
 }
