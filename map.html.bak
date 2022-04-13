@@ -20,7 +20,7 @@
   </div>
 </nav>
 <h1>Google Map of Mexico</h1>
-<h3>My two favorite places to visit when in Mexico.</h3>
+<h3 id="subtitle">My two favorite places to visit when in Mexico.</h3>
 <div id="wrapper">
   <div id="canvas">
   <div id="myMap">
