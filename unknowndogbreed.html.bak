@@ -5,6 +5,19 @@
   <title>What Breed is My Dog?</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+  <script src="./js/slider.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('.slider').bxSlider({
+        adaptiveHeight: true,
+        adaptiveWidth: true,
+        slideWidth: 100
+      });
+    });
+  </script>
 </head>
 
 <body>
@@ -15,6 +28,7 @@
           <li><a href="https://cnavarro1.github.io/project1/"><strong>Resume</strong></a></li>
           <li id="onpage"><a href="#"><strong>What Breed is My Dog?</strong></a></li>
           <li><a href="https://cnavarro1.github.io/project1/armadillofacts.html"><strong>Fun Facts about the Armadillo</strong></a></li>
+          <li><a href="https://cnavarro1.github.io/project1/map.html"><strong>Map</strong></a></li>
         </ul>
       </div>
     </nav>
@@ -121,9 +135,11 @@
       returning from extinction, but I do not mean pure sheltie like the one above. I mean what results 
       from searching &ldquo;Sheltie Mix&rdquo; in Google:
     </p>
-    <img id="shelt1" src="images/sheltiemix1.jpg" alt="Sheltie Mix 1" >
-    <img id="shelt2" src="images/sheltiemix2.jpg" alt="Sheltie Mix 2" >
-    <img id="ophshake" src="images/ophieshake.jpg" alt="Ophie putting up her paw" >
+    <div class="slider">
+      <img id="shelt1" src="images/sheltiemix1.jpg" alt="Sheltie Mix 1" >
+      <img id="shelt2" src="images/sheltiemix2.jpg" alt="Sheltie Mix 2" >
+      <img id="ophshake" src="images/ophieshake.jpg" alt="Ophie putting up her paw" >
+    </div>
     <p>
       Yeah, you're probably right. I'm leaning more towards her being a gnome in disguise.
     </p>
