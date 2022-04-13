@@ -1,5 +1,4 @@
 function init() {
-  alert('it'works');
   var el = document.getElementById('canvas');
   var myLocation = new google.maps.LatLng(41.835117, -87.627130);
   var mapOptions = {
@@ -26,7 +25,7 @@ function init() {
       content: contentString
     });
   
-  google.maps.evemt.addListener(marker, 'mouseover', function() {
+  google.maps.event.addListener(marker, 'mouseover', function() {
       infowindow.open(myMap, marker);
     });
     
