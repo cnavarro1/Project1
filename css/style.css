@@ -149,7 +149,7 @@ iframe {
 #wrapper {
   width: 850px;
   height: 600px;
-  background-color: #c00;
+  background-color: #cc0;
   margin:0 auto;
   overflow: hidden;
 }
@@ -160,6 +160,11 @@ iframe {
   margin: 30px auto;
 }
 #myMap {
-  height: 700px;
+  height: 500px;
   width: 100%;
+}
+#subtitle {
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
 }

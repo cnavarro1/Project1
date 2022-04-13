@@ -160,62 +160,11 @@ iframe {
   margin: 30px auto;
 }
 #myMap {
-  height: 700px;
+  height: 500px;
   width: 100%;
 }
-@media only screen and (max-width: 480px){
-	#main-navbar {
-		width: 390px;
-	}
-
-	#navbar-container ul {
-		left: 50%;
-    }
-
-    #navbar-container ul li {
-		right: 50%;
-    }
-
-    #navbar-container ul li a {
-		padding: 5px 10px;
-    }
-
-    #myMap {
-        height: 100%;
-      }
-
-    html, body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-}
-
-
-@media only screen and (min-width: 390px){
-	#main-navbar {
-		width: 290px;
-	}
-
-	#navbar-container ul {
-		left: 50%;
-    }
-
-    #navbar-container ul li {
-		right: 50%;
-    }
-
-    #navbar-container ul li a {
-		padding: 5px 10px;
-    }
-
-    #myMap {
-        height: 100%;
-      }
-
-    html, body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
+#subtitle {
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
 }
