@@ -5,6 +5,8 @@
   <title>Cristian Navarro's Resume</title>
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+  <script async type="text/javascript" src="map.js"></script>
 </head>
 <body>
 <div id="wrapper">
