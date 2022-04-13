@@ -2,7 +2,7 @@
   width: 850px;
   height: 600px;
   background-color: #c00;
-  margin0 auto;
+  margin0: auto;
   overflow: hidden;
 }
 #canvas {
