@@ -14,7 +14,7 @@ function init() {
     position: myLocation,
     map: myMap,
     animation: google.maps.Animation.BOUNCE,
-    icon: 'images/marge.png'
+    icon: 'marge.png'
   });
   
   google.maps.evemt.addListener(marker, 'mouseover', function() {
